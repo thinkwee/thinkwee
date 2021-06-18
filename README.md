@@ -4,13 +4,14 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-darkgreen?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thinkwee/)](https://www.linkedin.com/in/thinkwee/)
 [![GoogleScholar](https://img.shields.io/badge/GoogleScholar-orange?style=flat-square&logo=google-scholar&logoColor=white&link=https://scholar.google.com/citations?view_op=list_works&hl=en&user=QvW2leIAAAAJ)](https://scholar.google.com/citations?view_op=list_works&hl=en&user=QvW2leIAAAAJ)
 
-- 🔭 I’m currently working at BUPT CIST, and soon i will be working at Tencent AIPD
-- 🌱 I’m interested in text generation, summarization...
+- 🔭 Acquired Master of Computer Engineering at CIST@BUPT(Center of Intelligence Science and Technology)
+- 🚀 Now working at AIPD of Tencent 🤖@🐧
+- 🌱 I’m interested in NLP, especially in text generation, summarization, pre-training
 
 ## Some works
-- [DPP_CNN_Summarization](https://github.com/thinkwee/DPP_CNN_Summarization)
-- [multiling_wiki](https://github.com/thinkwee/multiling2019_wiki)
-- [UniKeyphrase](https://github.com/thinkwee/UniKeyphrase)
+- 📙 [DPP_CNN_Summarization](https://github.com/thinkwee/DPP_CNN_Summarization)
+- 📘 [multiling_wiki](https://github.com/thinkwee/multiling2019_wiki)
+- 📗 [UniKeyphrase](https://github.com/thinkwee/UniKeyphrase)
 
 [![Thinkwee's GitHub stats](https://github-readme-stats.vercel.app/api?username=thinkwee&count_private=true&show_icons=true&include_all_commits=true&bg_color=15,2F4F4F,DD5182,960B7E,9FE6E8&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF)](https://github.com/thinkwee)
 
