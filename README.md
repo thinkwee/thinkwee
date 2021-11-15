@@ -6,7 +6,7 @@
 
 - 🔭 Acquired Master of Computer Engineering at CIST@BUPT(Center of Intelligence Science and Technology)
 - 🚀 Now working at AIPD of Tencent 🤖@🐧
-- 🌱 I’m interested in NLP, especially in text generation, summarization, pre-training
+- 🌱 I’m interested in NLP, especially in text generation, summarization, pre-training, advertisement
 
 ## Some works
 - 📙 [DPP_CNN_Summarization](https://github.com/thinkwee/DPP_CNN_Summarization)
