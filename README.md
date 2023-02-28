@@ -6,7 +6,7 @@
 ### Intro
 - 🔭 Acquired Master of Computer Engineering at CIST@BUPT(Center of Intelligence Science and Technology)
 - 🚀 Now working at MLPD of Tencent 🤖@🐧
-- 🌱 I’m interested in text generation, pre-training, advertisement, sequence modeling
+- 🌱 I’m interested in text generation, pre-training, advertisement
 ### Some works
 - 📙 [DPP_CNN_Summarization](https://github.com/thinkwee/DPP_CNN_Summarization)
 - 📘 [SubjevtiveBiasABS](https://github.com/thinkwee/SubjectiveBiasABS)
