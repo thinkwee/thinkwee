@@ -1,4 +1,5 @@
 ## Hi, i'm thinkwee, Application Researcher in Tencent
+![](https://komarev.com/ghpvc/?username=thinkwee)
 [![Blog](http://img.shields.io/badge/-Blog-blue?style=flat-square&logo=hexo&logoColor=white)](https://thinkwee.top) 
 [![Résumé](https://img.shields.io/badge/Résumé-black?style=flat-square&logo=github&logoColor=white)](https://thinkwee.top/about/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-darkgreen?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thinkwee/)](https://www.linkedin.com/in/thinkwee/)
