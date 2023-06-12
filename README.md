@@ -9,11 +9,11 @@
 - 🚀 Now working at MLPD of Tencent 🤖@🐧
 - 🌱 I’m interested in text generation, pre-training, advertisement
 ### Some works
-- 📙 [DPP_CNN_Summarization](https://github.com/thinkwee/DPP_CNN_Summarization)
-- 📘 [SubjevtiveBiasABS](https://github.com/thinkwee/SubjectiveBiasABS)
-- 📗 [UniKeyphrase](https://github.com/thinkwee/UniKeyphrase)
-- 📕 [multiling_wiki](https://github.com/thinkwee/multiling2019_wiki)
-- 📒 [eda_zh_bert](https://github.com/thinkwee/eda_zh_bert)
+- 💡 [UniKeyphrase](https://github.com/thinkwee/UniKeyphrase)
+- 📔 [DPP_CNN_Summarization](https://github.com/thinkwee/DPP_CNN_Summarization)
+- 📊 [SubjevtiveBiasABS](https://github.com/thinkwee/SubjectiveBiasABS)
+- 🗣️ [GPT_Debate](https://github.com/thinkwee/GPT_debate)
+- 📚 [multiling_wiki](https://github.com/thinkwee/multiling2019_wiki)
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thinkwee&&layout=compact"  alt="" height="150"/>
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=thinkwee&count_private=true&show_icons=true&include_all_commits=true&bg_color=15,2F4F4F,DD5182,960B7E,9FE6E8&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF"  alt="" height="150"/>
