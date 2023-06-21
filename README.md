@@ -10,9 +10,10 @@
 - 🌱 I’m interested in text generation, pre-training, advertisement
 ### Some works
 - 💡 [UniKeyphrase](https://github.com/thinkwee/UniKeyphrase)
+- 🗣️ [GPT_Debate](https://github.com/thinkwee/GPT_debate)
+- 🤗 [Awesome-Chinese-LLM](https://github.com/HqWu-HITCS/Awesome-Chinese-LLM)
 - 📔 [DPP_CNN_Summarization](https://github.com/thinkwee/DPP_CNN_Summarization)
 - 📊 [SubjevtiveBiasABS](https://github.com/thinkwee/SubjectiveBiasABS)
-- 🗣️ [GPT_Debate](https://github.com/thinkwee/GPT_debate)
 - 📚 [multiling_wiki](https://github.com/thinkwee/multiling2019_wiki)
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thinkwee&&layout=compact"  alt="" height="150"/>
