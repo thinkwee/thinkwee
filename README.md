@@ -7,7 +7,7 @@
 ### Intro
 - 🔭 Acquired Master of Computer Engineering at CIST@BUPT(Center of Intelligence Science and Technology)
 - 🚀 Now working at MLPD of Tencent 🤖@🐧
-- 🌱 I’m interested in text generation, pre-training, advertisement
+- 🌱 Focus on NLP
 ### Some works
 - 💡 [UniKeyphrase](https://github.com/thinkwee/UniKeyphrase)
 - 🗣️ [GPT_Debate](https://github.com/thinkwee/GPT_debate)
