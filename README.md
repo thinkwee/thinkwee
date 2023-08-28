@@ -5,10 +5,11 @@
 [![GoogleScholar](https://img.shields.io/badge/GoogleScholar-orange?style=flat-square&logo=google-scholar&logoColor=white&link=https://scholar.google.com/citations?view_op=list_works&hl=en&user=QvW2leIAAAAJ)](https://scholar.google.com/citations?view_op=list_works&hl=en&user=QvW2leIAAAAJ)
 ### Intro
 - Acquired Master of Computer Engineering at CIST@BUPT(Center of Intelligence Science and Technology)
-- Now working at MLPD of [Tencent](https://www.tencent.com/en-us/about.html)
-- I will be working at [THUNLP](https://nlp.csai.tsinghua.edu.cn/) as a RA
+- Worked as Application Researcher at MLPD of [Tencent](https://www.tencent.com/en-us/about.html)
+- Now working at [THUNLP](https://nlp.csai.tsinghua.edu.cn/) as a RA
 - **Now actively seeking Ph.D. opportunities (2024 Fall/2023 Spring) on NLP!**
 ### Some works
+- [ChatDev](https://github.com/OpenBMB/ChatDev)
 - [UniKeyphrase](https://github.com/thinkwee/UniKeyphrase)
 - [GPT_Debate](https://github.com/thinkwee/GPT_debate)
 - [Awesome-Chinese-LLM](https://github.com/HqWu-HITCS/Awesome-Chinese-LLM)
