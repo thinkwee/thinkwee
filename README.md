@@ -7,7 +7,7 @@
 - Acquired Master of Computer Engineering at CIST@BUPT(Center of Intelligence Science and Technology)
 - Worked as Application Researcher at MLPD of [Tencent](https://www.tencent.com/en-us/about.html)
 - Now working at [THUNLP](https://nlp.csai.tsinghua.edu.cn/) as a RA
-- **Now actively seeking Ph.D. opportunities (2024 Fall/2023 Spring) on NLP!**
+- **Now actively seeking Ph.D. opportunities (2024 Spring/Fall) on NLP!**
 ### Some works
 - [ChatDev](https://github.com/OpenBMB/ChatDev)
 - [UniKeyphrase](https://github.com/thinkwee/UniKeyphrase)
