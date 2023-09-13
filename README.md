@@ -15,7 +15,7 @@
 
 | Project | Stars | Forks | Introduction |
 | :----:  | :----: | :----: | :---- |
-| [ChatDev](https://github.com/OpenBMB/ChatDev) | ![](https://img.shields.io/github/stars/OpenBMB/ChatDev?color=F4B0A5&logo=Undertale&logoColor=FB6571) | ![](https://img.shields.io/github/forks/OpenBMB/ChatDev?color=E4C994&logo=Handshake&logoColor=D6E19C) | Create Customized Software in Natural Language Idea |
+| [ChatDev](https://github.com/OpenBMB/ChatDev) | ![](https://img.shields.io/github/stars/OpenBMB/ChatDev?color=F4B0A5&logo=Undertale&logoColor=FB6571) | ![](https://img.shields.io/github/forks/OpenBMB/ChatDev?color=E4C994&logo=Handshake&logoColor=D6E19C) | Create Customized Software in Natural Language Ideas |
 | [Awesome-Chinese-LLM](https://github.com/HqWu-HITCS/Awesome-Chinese-LLM) | ![](https://img.shields.io/github/stars/HqWu-HITCS/Awesome-Chinese-LLM?color=F4B0A5&logo=Undertale&logoColor=FB6571) | ![](https://img.shields.io/github/forks/HqWu-HITCS/Awesome-Chinese-LLM?color=E4C994&logo=Handshake&logoColor=D6E19C) | An Awesome list of Chinese LLMs |
 
 ### Other Works
