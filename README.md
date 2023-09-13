@@ -1,4 +1,4 @@
-## Hi, i'm thinkwee (Wei Liu), a NLP lover
+## Hi, i'm thinkwee (Wei Liu)
 ![](https://komarev.com/ghpvc/?username=thinkwee)
 [![Blog](http://img.shields.io/badge/-Blog-blue?style=flat-square&logo=hexo&logoColor=white)](https://thinkwee.top) 
 [![Résumé](https://img.shields.io/badge/Résumé-black?style=flat-square&logo=github&logoColor=white)](https://thinkwee.top/about/)
@@ -13,10 +13,10 @@
 
 ### 🔥Projects
 
-| Project | Stars | Forks | Remark |
+| Project | Stars | Forks | Introduction |
 | :----:  | :----: | :----: | :---- |
-| [ChatDev](https://github.com/OpenBMB/ChatDev) | ![](https://img.shields.io/github/stars/OpenBMB/ChatDev?color=f2f08d&logo=Undertale&logoColor=eb4630) | ![](https://img.shields.io/github/forks/OpenBMB/ChatDev?color=ba86eb&logo=Handshake&logoColor=ea6aa6) | Create Customized Software in Natural Language Idea |
-| [Awesome-Chinese-LLM](https://github.com/HqWu-HITCS/Awesome-Chinese-LLM) | ![](https://img.shields.io/github/stars/HqWu-HITCS/Awesome-Chinese-LLM?color=f2f08d&logo=Undertale&logoColor=eb4630) | ![](https://img.shields.io/github/forks/HqWu-HITCS/Awesome-Chinese-LLM?color=ba86eb&logo=Handshake&logoColor=ea6aa6) | An Awesome list of Chinese LLMs |
+| [ChatDev](https://github.com/OpenBMB/ChatDev) | ![](https://img.shields.io/github/stars/OpenBMB/ChatDev?color=F4B0A5&logo=Undertale&logoColor=FB6571) | ![](https://img.shields.io/github/forks/OpenBMB/ChatDev?color=E4C994&logo=Handshake&logoColor=D6E19C) | Create Customized Software in Natural Language Idea |
+| [Awesome-Chinese-LLM](https://github.com/HqWu-HITCS/Awesome-Chinese-LLM) | ![](https://img.shields.io/github/stars/HqWu-HITCS/Awesome-Chinese-LLM?color=F4B0A5&logo=Undertale&logoColor=FB6571) | ![](https://img.shields.io/github/forks/HqWu-HITCS/Awesome-Chinese-LLM?color=E4C994&logo=Handshake&logoColor=D6E19C) | An Awesome list of Chinese LLMs |
 
 ### Other Works
 - [UniKeyphrase](https://github.com/thinkwee/UniKeyphrase)
