@@ -3,6 +3,7 @@
 [![Blog](http://img.shields.io/badge/-Blog-blue?style=flat-square&logo=hexo&logoColor=white)](https://thinkwee.top) 
 [![Résumé](https://img.shields.io/badge/Résumé-black?style=flat-square&logo=github&logoColor=white)](https://thinkwee.top/about/)
 [![GoogleScholar](https://img.shields.io/badge/GoogleScholar-orange?style=flat-square&logo=google-scholar&logoColor=white&link=https://scholar.google.com/citations?view_op=list_works&hl=en&user=QvW2leIAAAAJ)](https://scholar.google.com/citations?view_op=list_works&hl=en&user=QvW2leIAAAAJ)
+[![ContactMe](https://img.shields.io/badge/ContactMe-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:thinkwee2767@gmail.com)](mailto:thinkwee2767@gmail.com)
 
 ### Intro
 - Acquired Master of Computer Engineering at CIST@BUPT(Center of Intelligence Science and Technology)
