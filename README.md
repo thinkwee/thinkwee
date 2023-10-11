@@ -1,5 +1,4 @@
 ## Hi, i'm thinkwee (Wei Liu)
-![](https://komarev.com/ghpvc/?username=thinkwee)
 [![Blog](http://img.shields.io/badge/-Blog-blue?style=flat-square&logo=hexo&logoColor=white)](https://thinkwee.top) 
 [![Résumé](https://img.shields.io/badge/Résumé-green?style=flat-square&logo=aboutdotme&logoColor=white)](https://thinkwee.top/about/)
 [![GoogleScholar](https://img.shields.io/badge/GoogleScholar-orange?style=flat-square&logo=google-scholar&logoColor=white&link=https://scholar.google.com/citations?view_op=list_works&hl=en&user=QvW2leIAAAAJ)](https://scholar.google.com/citations?view_op=list_works&hl=en&user=QvW2leIAAAAJ)
