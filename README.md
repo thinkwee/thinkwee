@@ -5,7 +5,10 @@
 [![Twitter](https://img.shields.io/badge/Twitter-black?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/thinkwee2767)](https://twitter.com/thinkwee2767)
 [![ContactMe](https://img.shields.io/badge/ContactMe-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:thinkwee2767@gmail.com)](mailto:thinkwee2767@gmail.com)
 
-### Intro
+
+![](https://komarev.com/ghpvc/?username=thinkwee&style=for-the-badge)
+
+### 🎓Bio
 - Acquired Master of Computer Engineering at CIST@BUPT(Center of Intelligence Science and Technology@Beijing University of Posts and Telecommunications)
 - Worked as NLP Researcher at MLPD of [Tencent](https://www.tencent.com/en-us/about.html)
 - Now working at [THUNLP](https://nlp.csai.tsinghua.edu.cn/) as a RA
@@ -18,7 +21,7 @@
 | [ChatDev](https://github.com/OpenBMB/ChatDev) | ![](https://img.shields.io/github/stars/OpenBMB/ChatDev?color=F4B0A5&logo=Undertale&logoColor=FB6571) | ![](https://img.shields.io/github/forks/OpenBMB/ChatDev?color=E4C994&logo=Handshake&logoColor=D6E19C) | Create Customized Software in Natural Language Ideas |
 | [Awesome-Chinese-LLM](https://github.com/HqWu-HITCS/Awesome-Chinese-LLM) | ![](https://img.shields.io/github/stars/HqWu-HITCS/Awesome-Chinese-LLM?color=F4B0A5&logo=Undertale&logoColor=FB6571) | ![](https://img.shields.io/github/forks/HqWu-HITCS/Awesome-Chinese-LLM?color=E4C994&logo=Handshake&logoColor=D6E19C) | An Awesome list of Chinese LLMs |
 
-### Other Works
+### 🔧Other Works
 - [UniKeyphrase](https://github.com/thinkwee/UniKeyphrase)
 - [GPT_Debate](https://github.com/thinkwee/GPT_debate)
 - [DPP_CNN_Summarization](https://github.com/thinkwee/DPP_CNN_Summarization)
