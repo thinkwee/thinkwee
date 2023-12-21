@@ -4,9 +4,7 @@
 [![GoogleScholar](https://img.shields.io/badge/GoogleScholar-orange?style=flat-square&logo=google-scholar&logoColor=white&link=https://scholar.google.com/citations?view_op=list_works&hl=en&user=QvW2leIAAAAJ)](https://scholar.google.com/citations?view_op=list_works&hl=en&user=QvW2leIAAAAJ)
 [![Twitter](https://img.shields.io/badge/Twitter-black?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/thinkwee2767)](https://twitter.com/thinkwee2767)
 [![ContactMe](https://img.shields.io/badge/ContactMe-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:thinkwee2767@gmail.com)](mailto:thinkwee2767@gmail.com)
-
-
-![](https://komarev.com/ghpvc/?username=thinkwee&style=for-the-badge)
+![](https://komarev.com/ghpvc/?username=thinkwee)
 
 ### 🎓Bio
 - Acquired Master of Computer Engineering at CIST@BUPT(Center of Intelligence Science and Technology@Beijing University of Posts and Telecommunications)
