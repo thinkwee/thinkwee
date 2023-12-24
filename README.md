@@ -8,7 +8,7 @@
 
 ### 🎓Bio
 - Acquired Master of Computer Engineering at CIST@BUPT(Center of Intelligence Science and Technology@Beijing University of Posts and Telecommunications)
-- Worked as NLP Researcher at MLPD of [Tencent](https://www.tencent.com/en-us/about.html)
+- Worked as NLP Researcher at [Tencent](https://www.tencent.com/en-us/about.html)
 - Now working at [THUNLP](https://nlp.csai.tsinghua.edu.cn/) as a RA
 - **Now actively seeking Ph.D. opportunities (2024 Fall) on NLP/LLM!**
 
