@@ -10,7 +10,6 @@
 - Acquired Master of Computer Engineering at CIST@BUPT(Center of Intelligence Science and Technology@Beijing University of Posts and Telecommunications)
 - Worked as NLP Researcher at [Tencent](https://www.tencent.com/en-us/about.html)
 - Working at [THUNLP](https://nlp.csai.tsinghua.edu.cn/) as a RA
-- **[2024.3.12] Now I am hiring for research interns! See details [here](https://thinkwee.top/hiring/)**
 
 ### 🔥 Projects
 
