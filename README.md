@@ -19,6 +19,7 @@
 | [Awesome-Chinese-LLM](https://github.com/HqWu-HITCS/Awesome-Chinese-LLM) | ![](https://img.shields.io/github/stars/HqWu-HITCS/Awesome-Chinese-LLM?color=F4B0A5&logo=Undertale&logoColor=FB6571) | ![](https://img.shields.io/github/forks/HqWu-HITCS/Awesome-Chinese-LLM?color=E4C994&logo=Handshake&logoColor=D6E19C) | An Awesome list of Chinese LLMs |
 
 ### 🔧 Other Works
+- [iAgents](https://github.com/thinkwee/iAgents)
 - [UniKeyphrase](https://github.com/thinkwee/UniKeyphrase)
 - [GPT_Debate](https://github.com/thinkwee/GPT_debate)
 - [DPP_CNN_Summarization](https://github.com/thinkwee/DPP_CNN_Summarization)
