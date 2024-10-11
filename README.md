@@ -21,7 +21,7 @@
 ### Something Interesting 🚀
 | Project | Introduction |
 | :----:  | :---- |
-| [iAgents](https://github.com/thinkwee/iAgentsv) | Connecting Humans and Agents in One System |
+| [iAgents](https://github.com/thinkwee/iAgents) | Connecting Humans and Agents in One System |
 | [GPT_Debate](https://github.com/thinkwee/GPT_debate) | Human vote for GPT debates |
 | [Awesome-LLM-IF](https://github.com/thinkwee/Awesome-LLM-IF) | An Awesome List to LLM Instruction Following |
 | [Summary_Demo](https://github.com/thinkwee/Summary_Demo) | A visualization demo for summarization |
