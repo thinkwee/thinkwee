@@ -10,7 +10,6 @@
 - BS&MS at BUPT(Beijing University of Posts and Telecommunications)
 - Application Research at [Tencent](https://www.tencent.com/en-us/about.html)
 - Now working at [THUNLP](https://nlp.csai.tsinghua.edu.cn/) on LLM Agent🤖
-- Now I'm opening for jobs~
 
 ### Something Hot 🔥
 | Project | Stars | Forks | Introduction |
