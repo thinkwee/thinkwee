@@ -7,7 +7,7 @@
 ![](https://komarev.com/ghpvc/?username=thinkwee)
 
 ### 🎓 Bio
-- BS&MS at BUPT(Beijing University of Posts and Telecommunications)
+- B.Eng. & M.Eng. at BUPT(Beijing University of Posts and Telecommunications)
 - Application Research at [Tencent](https://www.tencent.com/en-us/about.html)
 - Now working at [THUNLP](https://nlp.csai.tsinghua.edu.cn/) on LLM Agent🤖
 
@@ -28,10 +28,11 @@
 ### Something Useful 🔧
 | Project | Introduction |
 | :----:  | :---- |
+| [hexo-translation-switch](https://github.com/thinkwee/hexo-translation-switch) | A hexo plugin for switching your post in different languages|
 | [link2title](https://github.com/thinkwee/link2title) | transform links in your markdown into \[title\]\(link\) |
 | [ArxivDaily](https://github.com/thinkwee/ArxivDaily) | A Notion Agent that Provides Arxiv Papers on Your Interest |
 | [BuptRoom](https://github.com/thinkwee/BuptRoom) | Android App for checking empty classroom for study |
-| [eda_zh_bert](https://github.com/thinkwee/eda_zh_bert) | A simple NLP augmentation tool, for chinese |
+| [eda_zh_bert](https://github.com/thinkwee/eda_zh_bert) | A simple NLP augmentation tool, for Chinese |
 
 
 ### Something paired with Papers 📑
