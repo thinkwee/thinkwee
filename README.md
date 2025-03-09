@@ -7,10 +7,7 @@
 ![](https://komarev.com/ghpvc/?username=thinkwee)
 
 ### 🎓 Bio
-- [BUPT](https://ai.bupt.edu.cn/en/info/1026/1212.htm) (B.Eng. & M.Eng.) ➡️
-  - [Tencent](https://www.tencent.com/en-us/about.html) (NLP & Advertisement Research) ➡️
-    - [Tsinghua](https://nlp.csai.tsinghua.edu.cn/) (LLM Agent RA) ➡️
-      - [Kings' College London](https://www.kcl.ac.uk/) (PhD in [KCLNLP](https://kclnlp.github.io/))
+- [BUPT](https://ai.bupt.edu.cn/en/info/1026/1212.htm) (B.Eng. & M.Eng.) ➡️ [Tencent](https://www.tencent.com/en-us/about.html) (Applied Research) ➡️ [Tsinghua](https://nlp.csai.tsinghua.edu.cn/) (RA) ➡️ [Kings' College London](https://www.kcl.ac.uk/) (PhD in [KCLNLP](https://kclnlp.github.io/))
 
 ### Something Hot 🔥
 | Project | Stars | Forks | Introduction |
