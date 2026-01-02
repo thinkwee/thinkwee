@@ -34,7 +34,7 @@
 ### Something Useful 🔧
 | Project | Introduction |
 | :----:  | :---- |
-| [BibGuard](https://github.com/thinkwee/BibGuard) | An AI-powered LaTeX bibliography auditor that prevents hallucinations by verifying citation metainfo and relevance |
+| [BibGuard](https://github.com/thinkwee/BibGuard) | LaTeX bibliography auditor that prevents hallucinations in references |
 | [hexo-translation-switch](https://github.com/thinkwee/hexo-translation-switch) | A hexo plugin for switching your post in different languages |
 | [link2title](https://github.com/thinkwee/link2title) | transform links in your markdown into \[title\]\(link\) |
 | [ArxivDaily](https://github.com/thinkwee/ArxivDaily) | A Notion Agent that Provides Arxiv Papers on Your Interest |
