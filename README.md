@@ -9,6 +9,9 @@
 ### 🎓 Bio
 - [BUPT](https://ai.bupt.edu.cn/en/info/1026/1212.htm) (B.Eng. & M.Eng.) ➡️ [Tencent](https://www.tencent.com/en-us/about.html) (Applied Research) ➡️ [Tsinghua](https://nlp.csai.tsinghua.edu.cn/) (RA) ➡️ [Kings' College London](https://www.kcl.ac.uk/) (PhD in [KCLNLP](https://kclnlp.github.io/))
 
+### New
+- Introducing 🐱 [HiMe](https://github.com/thinkwee/HiMe), the one-stop Personal Health Agent that runs on your iPhone and Apple Watch.
+
 ### Something Hot 🔥
 | Project | Stars | Forks | Introduction |
 | :----:  | :----: | :----: | :---- |
@@ -16,7 +19,7 @@
 | [Awesome-Chinese-LLM](https://github.com/HqWu-HITCS/Awesome-Chinese-LLM) | ![](https://img.shields.io/github/stars/HqWu-HITCS/Awesome-Chinese-LLM?color=F4B0A5&logo=Undertale&logoColor=FB6571) | ![](https://img.shields.io/github/forks/HqWu-HITCS/Awesome-Chinese-LLM?color=E4C994&logo=Handshake&logoColor=D6E19C) | An Awesome list of Chinese LLMs |
 | [AgentsMeetRL](https://github.com/thinkwee/AgentsMeetRL) | ![](https://img.shields.io/github/stars/thinkwee/AgentsMeetRL?color=F4B0A5&logo=Undertale&logoColor=FB6571) | ![](https://img.shields.io/github/forks/thinkwee/AgentsMeetRL?color=E4C994&logo=Handshake&logoColor=D6E19C) | An Awesome List to RL-powered LLM Agents Training Frameworks |
 
-### Something AwesomeList 😺
+### Something AwesomeList 💗
 | Project | Introduction |
 | :----:  | :---- |
 | [AgentsMeetRL](https://github.com/thinkwee/AgentsMeetRL) | An Awesome List to RL-powered LLM Agents Training Frameworks|
