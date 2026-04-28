@@ -9,7 +9,11 @@
 ### 🎓 Bio
 - [BUPT](https://ai.bupt.edu.cn/en/info/1026/1212.htm) (B.Eng. & M.Eng.) ➡️ [Tencent](https://www.tencent.com/en-us/about.html) (Applied Research) ➡️ [Tsinghua](https://nlp.csai.tsinghua.edu.cn/) (RA) ➡️ [Kings' College London](https://www.kcl.ac.uk/) (PhD in [KCLNLP](https://kclnlp.github.io/))
 
-### 📰 New
+### 🚀 New
+<p align="center">
+  <img src="https://github.com/thinkwee/HiMe/raw/main/assets/logo.png" alt="HiMe Logo" width="800"/>
+</p>
+
 - Introducing 🐱 [HiMe](https://github.com/thinkwee/HiMe), the one-stop Personal Health Agent that runs on your iPhone and Apple Watch.
 
 ### 🔥 Something Hot 
@@ -18,6 +22,7 @@
 | [ChatDev](https://github.com/OpenBMB/ChatDev) | ![](https://img.shields.io/github/stars/OpenBMB/ChatDev?color=F4B0A5&logo=Undertale&logoColor=FB6571) | ![](https://img.shields.io/github/forks/OpenBMB/ChatDev?color=E4C994&logo=Handshake&logoColor=D6E19C) | Create Customized Software in Natural Language Ideas |
 | [Awesome-Chinese-LLM](https://github.com/HqWu-HITCS/Awesome-Chinese-LLM) | ![](https://img.shields.io/github/stars/HqWu-HITCS/Awesome-Chinese-LLM?color=F4B0A5&logo=Undertale&logoColor=FB6571) | ![](https://img.shields.io/github/forks/HqWu-HITCS/Awesome-Chinese-LLM?color=E4C994&logo=Handshake&logoColor=D6E19C) | An Awesome list of Chinese LLMs |
 | [AgentsMeetRL](https://github.com/thinkwee/AgentsMeetRL) | ![](https://img.shields.io/github/stars/thinkwee/AgentsMeetRL?color=F4B0A5&logo=Undertale&logoColor=FB6571) | ![](https://img.shields.io/github/forks/thinkwee/AgentsMeetRL?color=E4C994&logo=Handshake&logoColor=D6E19C) | An Awesome List to RL-powered LLM Agents Training Frameworks |
+| [AwesomeOPD](https://github.com/thinkwee/AwesomeOPD) | ![](https://img.shields.io/github/stars/thinkwee/AwesomeOPD?color=F4B0A5&logo=Undertale&logoColor=FB6571) | ![](https://img.shields.io/github/forks/thinkwee/AwesomeOPD?color=E4C994&logo=Handshake&logoColor=D6E19C) | An Awesome List of On-Policy Distillation |
 
 ### 💗 Something Awesome 
 | Project | Introduction |
@@ -26,7 +31,7 @@
 | [Awesome-LLM-IF](https://github.com/thinkwee/Awesome-LLM-IF) | An Awesome List to LLM Instruction Following |
 | [Awesome-Chinese-LLM](https://github.com/HqWu-HITCS/Awesome-Chinese-LLM) | An Awesome List to Amazing Chinese LLM-related resources |
 
-### 🚀 Something Interesting 
+### 🤔 Something Interesting 
 | Project | Introduction |
 | :----:  | :---- |
 | [NOVER](https://github.com/thinkwee/NOVER) | Train your R1-zero-like Reasoning Model on ANY DATA |
@@ -45,7 +50,7 @@
 | [eda_zh_bert](https://github.com/thinkwee/eda_zh_bert) | A simple NLP augmentation tool, for Chinese |
 
 
-### Something paired with Papers 📑
+### 📑 Something paired with Papers 
 - [Deep Data Research](https://github.com/thinkwee/DDR_Bench)
 - [Verifier-Free RL](https://github.com/thinkwee/NOVER)
 - [ChatDev](https://github.com/OpenBMB/ChatDev)
