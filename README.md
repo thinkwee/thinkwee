@@ -27,7 +27,8 @@
 ### 💗 Something Awesome 
 | Project | Introduction |
 | :----:  | :---- |
-| [AgentsMeetRL](https://github.com/thinkwee/AgentsMeetRL) | An Awesome List to RL-powered LLM Agents Training Frameworks|
+| [AgentsMeetRL](https://github.com/thinkwee/AgentsMeetRL) | An Awesome List to RL-powered LLM Agents Training Frameworks |
+| [AwesomeOPD](https://github.com/thinkwee/AwesomeOPD) | An Awesome List of On-Policy Distillation |
 | [Awesome-LLM-IF](https://github.com/thinkwee/Awesome-LLM-IF) | An Awesome List to LLM Instruction Following |
 | [Awesome-Chinese-LLM](https://github.com/HqWu-HITCS/Awesome-Chinese-LLM) | An Awesome List to Amazing Chinese LLM-related resources |
 
