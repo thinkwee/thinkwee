@@ -35,6 +35,7 @@
 ### 🤔 Something Interesting 
 | Project | Introduction |
 | :----:  | :---- |
+| [HiMe](https://github.com/thinkwee/HiMe) | One-Stop Real-Time Personal Health LLM Agent on Your iPhone |
 | [NOVER](https://github.com/thinkwee/NOVER) | Train your R1-zero-like Reasoning Model on ANY DATA |
 | [iAgents](https://github.com/thinkwee/iAgents) | Connecting Humans and Agents in One System |
 | [GPT_Debate](https://github.com/thinkwee/GPT_debate) | Human vote for GPT debates |
