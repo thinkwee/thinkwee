@@ -11,7 +11,7 @@
 
 ### 🚀 New
 <p align="center">
-  <img src="https://github.com/thinkwee/HiMe/raw/main/assets/logo.png" alt="HiMe Logo" width="800"/>
+  <img src="https://github.com/thinkwee/HiMe/raw/main/assets/logo.png" alt="HiMe Logo" width="600"/>
 </p>
 
 - Introducing 🐱 [HiMe](https://github.com/thinkwee/HiMe), the one-stop Personal Health Agent that runs on your iPhone and Apple Watch.
@@ -53,15 +53,12 @@
 
 
 ### 📑 Something paired with Papers 
-- [Deep Data Research](https://github.com/thinkwee/DDR_Bench)
-- [Verifier-Free RL](https://github.com/thinkwee/NOVER)
-- [ChatDev](https://github.com/OpenBMB/ChatDev)
-- [iAgents](https://github.com/thinkwee/iAgents)
-- [UniKeyphrase](https://github.com/thinkwee/UniKeyphrase)
-- [CO2Sum](https://github.com/thinkwee/co2sum)
-- [DPP_CNN_Summarization](https://github.com/thinkwee/DPP_CNN_Summarization)
-- [SubjevtiveBiasABS](https://github.com/thinkwee/SubjectiveBiasABS)
-- [multiling_wiki](https://github.com/thinkwee/multiling2019_wiki)
+- 🪏 [Deep Data Research](https://github.com/thinkwee/DDR_Bench): [ICML 2026 paper](https://arxiv.org/abs/2602.02039)
+- 🤔 [Verifier-Free RL](https://github.com/thinkwee/NOVER): [EMNLP 2025 paper](https://aclanthology.org/2025.emnlp-main.378/)
+- 💻 [ChatDev](https://github.com/OpenBMB/ChatDev): [ACL 2024 paper](https://aclanthology.org/2024.acl-long.810/)
+- 🛜 [iAgents](https://github.com/thinkwee/iAgents): [NeurIPS 2024 paper](https://proceedings.neurips.cc/paper_files/paper/2024/hash/0534abc9e6db91683d82186ef0d68202-Abstract-Conference.html)
+- 📖 [UniKeyphrase](https://github.com/thinkwee/UniKeyphrase): [ACL 2021 findings paper](https://aclanthology.org/2021.findings-acl.73.pdf)
+- 🎆 [DPP_CNN_Summarization](https://github.com/thinkwee/DPP_CNN_Summarization): [CoNLL 2019 paper](https://aclanthology.org/K19-1077/)
 
 ### 🛏️ Living on the Github
 ![](./profile-3d-contrib/profile-green-animate.svg)
