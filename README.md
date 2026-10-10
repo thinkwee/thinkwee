@@ -1,3 +1,4 @@
+
 ## Hi, I'm thinkwee (Wei Liu)
 [![Blog](http://img.shields.io/badge/-Blog-blue?style=flat-square&logo=blogger&logoColor=white)](https://thinkwee.top) 
 [![Résumé](https://img.shields.io/badge/Résumé-green?style=flat-square&logo=aboutdotme&logoColor=white)](https://thinkwee.top/about/)
@@ -11,10 +12,11 @@
 
 ### 🚀 New
 <p align="center">
-  <img src="https://github.com/thinkwee/HiMe/raw/main/assets/logo.png" alt="HiMe Logo" width="600"/>
+  <img width="5614" height="1411" alt="github_aboutme" src="https://github.com/user-attachments/assets/ad6e54a6-78cf-4e06-91db-63ed254627f9" />
 </p>
 
-- Introducing 🐱 [HiMe](https://github.com/thinkwee/HiMe), the one-stop Personal Health Agent that runs on your iPhone and Apple Watch.
+- Introducing 😊 [OpenDot](https://github.com/thinkwee/OpenDot), the general Personal Agent Team that works in the real world.
+- And 🐱 [HiMe](https://github.com/thinkwee/HiMe), the one-stop Personal Health Agent that runs on your iPhone and Apple Watch.
 
 ### 🔥 Something Hot 
 | Project | Stars | Forks | Introduction |
